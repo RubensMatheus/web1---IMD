@@ -1,0 +1,29 @@
+body {
+    background-color: #a8d5ba;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #2e4052;
+}
+
+p {
+    text-align: justify;
+    color: #333333
+}
+
+a {
+    color: rgb(7, 113, 113);
+}
+
+.chester {
+    text-align: center;
+    color: rgb(255, 0, 0);
+}

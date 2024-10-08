@@ -1,0 +1,22 @@
+#tt {
+    margin-top: 20px;
+}
+
+#subtitulo {
+    margin-top: 10px;
+}
+
+#titulo {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+
+body {
+    padding: 8px;
+    background-color: green;
+}

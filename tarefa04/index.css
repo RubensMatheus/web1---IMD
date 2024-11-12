@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}   
+
+#forform{
+    width: 600px;
+    margin-top: 40px;
+}
